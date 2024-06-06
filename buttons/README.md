@@ -2,6 +2,8 @@
 
 Welcome to the Flutter Button UI Showcase! This document provides an overview of different types of buttons available in Flutter along with their usage and visual representation.
 
+![Material Buttons](/images/material_button.webp)
+
 ## Raised Button
 
 A raised button is a material design button that elevates when pressed.
@@ -42,7 +44,10 @@ The icon button is used when a button's action is represented only by an icon. I
 
 A floating action button is a circular material design button.
 
-![FAB](/images/fab.png)
+![FAB](/images/fab_01.png)
+![FAB](/images/fab_02.jpg)
+![FAB](/images/fab_03.jpg)
+https://www.youtube.com/watch?v=SfcM-h0hgbA
 
 **Description:**  
 The floating action button is a prominent button that floats above the content and provides quick access to primary actions in a Flutter application. It's commonly used for high-priority, primary actions such as creating new content or initiating a primary action.
